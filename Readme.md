@@ -40,6 +40,6 @@ python people_counter.py --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt \
 
 ```
 
-# 3. Special Thanks/ reference
+# 4. Special Thanks/ reference
 
 *The complete code has been adapted from the pyimage search code. Hence, I offer my sincere acknowledgement to them.* 
