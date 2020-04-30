@@ -5,7 +5,7 @@
 ## This is just proof of concept and implemented quick hand, so don't ask to fork it and use it for your purposes.
 
 # Real-Time Sample Results
-![Real time Tracking](output/image/output_01.gif){ width=50% }
+![Real time Tracking](output/image/output_01.gif)
 
 # Dataset
 Dataset can be either from webcam or any video from realtime showing people in public space. 
