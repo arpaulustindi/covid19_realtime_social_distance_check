@@ -39,3 +39,7 @@ python people_counter.py --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt \
    --output output/webcam_output.avi
 
 ```
+
+# 3. Special Thanks/ reference
+
+*The complete code has been adapted from the pyimage search code. Hence, I offer my sincere acknowledgement to them.* 
