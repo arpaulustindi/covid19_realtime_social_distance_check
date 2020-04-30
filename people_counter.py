@@ -205,8 +205,8 @@ while True:
     for (objectID, centroid) in objects.items():
         # check to see if a trackable object exists for the current
         # object ID
-        print(objectID)
-        print(centroid.shape)
+        # print(objectID)
+        # print(centroid.shape)
         to = trackableObjects.get(objectID, None)
 
         # if there is no existing trackable object, create one
@@ -276,8 +276,8 @@ while True:
             for (objectID, centroid) in objects.items():
                 # check to see if a trackable object exists for the current
                 # object ID
-                print(objectID)
-                print(centroid.shape)
+                # print(objectID)
+                # print(centroid.shape)
                 to = trackableObjects.get(objectID, None)
         
                 # if there is no existing trackable object, create one
