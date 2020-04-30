@@ -1,11 +1,11 @@
 # Real-Time detection of Social Distancing
 
-![Sample Output](./image/sample_output.PNG)
+![Sample Output](.output/image/sample_output.PNG)
 
 ## This is just proof of concept and implemented quick hand, so don't ask to fork it and use it for your purposes.
 
 # Real-Time Sample Results
-![Real time Tracking](image/output_01.gif){ width=50% }
+![Real time Tracking](output/image/output_01.gif){ width=50% }
 
 # Dataset
 Dataset can be either from webcam or any video from realtime showing people in public space. 
