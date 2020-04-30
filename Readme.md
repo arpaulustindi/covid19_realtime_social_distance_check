@@ -1,6 +1,6 @@
 # Real-Time detection of Social Distancing
 
-![Sample Output](.output/image/sample_output.PNG)
+![Sample Output](output/image/sample_output.png)
 
 ## This is just proof of concept and implemented quick hand, so don't ask to fork it and use it for your purposes.
 
